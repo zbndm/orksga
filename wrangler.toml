@@ -1,0 +1,10 @@
+name = "orks"
+compatibility_date = "2022-08-05"
+account_id = "2b2a3e9ac4ebb9fc1427d6fcef3e8f54"
+zone_id = "875588caad01bf6284205b9b8d7ec5d2"
+main = "./dist/server.js"
+
+route = "orks.ga/*"
+
+[site]
+bucket = "./dist/public"
